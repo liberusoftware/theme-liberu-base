@@ -1,6 +1,6 @@
 {
   "name": "liberu/theme-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared semantic tokens and accessible presentation primitives for Liberu themes.",
   "type": "liberu-theme",
   "license": "MIT",
